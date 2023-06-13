@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\bin\Debug\prova 2° bimestre.exe.config
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\bin\Debug\prova 2° bimestre.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\bin\Debug\prova 2° bimestre.pdb
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\obj\Debug\prova 2° bimestre.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\obj\Debug\prova 2° bimestre.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\obj\Debug\prova_2__bimestre.Correcao.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\obj\Debug\prova_2__bimestre.Prova.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\obj\Debug\prova_2__bimestre.Properties.Resources.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\obj\Debug\prova 2° bimestre.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\obj\Debug\prova 2° bimestre.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\obj\Debug\prova 2° bimestre.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\prova 2° bimestre\prova 2° bimestre\obj\Debug\prova 2° bimestre.pdb
