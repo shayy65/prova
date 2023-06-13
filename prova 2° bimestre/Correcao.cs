@@ -25,25 +25,26 @@ namespace prova_2__bimestre
 
         private void bt_avaliar_Click(object sender, EventArgs e)
         {
-            string[] gabarito = { "A", "B", "D", "E", "C", "A", "A", "D", "E", "C" };
+            string[] gabarito = { "A", "B", "D", "E", "C", "A", "A", "D", "E", "B" };
 
-            string[]resposta = {Convert.ToString(tx_1), Convert.ToString(tx_2), Convert.ToString(tx_3), Convert.ToString(tx_4), Convert.ToString(tx_5), Convert.ToString(tx_6), Convert.ToString(tx_7), Convert.ToString(tx_8), Convert.ToString(tx_9), Convert.ToString(tx_10) };
+            string[]resposta = {Convert.ToString(tx_1.Text.ToUpper()), Convert.ToString(tx_2.Text.ToUpper()), Convert.ToString(tx_3.Text.ToUpper()), Convert.ToString(tx_4.Text.ToUpper()), Convert.ToString(tx_5.Text.ToUpper()), Convert.ToString(tx_6.Text.ToUpper()), Convert.ToString(tx_7.Text.ToUpper()), Convert.ToString(tx_8.Text.ToUpper()), Convert.ToString(tx_9.Text.ToUpper()), Convert.ToString(tx_10.Text.ToUpper())};
 
             int qtdacertos = 0;
-            for(int i = 0; i < gabarito.Length; i++)
+
+            for (int i = 0;i < gabarito.Length; i++)
             {
-                if(resposta == gabarito )
+                if (resposta[i] == gabarito[i])
                 {
                     qtdacertos += 1;
                 }
-                
             }
-
             MessageBox.Show(Convert.ToString(qtdacertos));
 
-            
 
-            
+
+
+
+
 
 
 
